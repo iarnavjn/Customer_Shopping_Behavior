@@ -99,7 +99,7 @@ The SQL analysis explores 10 key business questions:
 #### Demographic Insights
 10. **Age Group Revenue**: Revenue contribution analysis across different age groups
 
-## � Interactive Dashboard
+##   Interactive Dashboard
 
 ### Power BI Dashboard
 
@@ -131,7 +131,7 @@ An interactive Power BI dashboard (`Customer_Behavior_Dashboard.pbix`) visualize
 
 The dashboard provides real-time insights for business decision-making and trend analysis.
 
-## �💡 Key Insights
+##  💡 Key Insights
 
 The analysis provides insights into:
 
@@ -226,21 +226,8 @@ LIMIT 5;
 
 Contributions, issues, and feature requests are welcome! Feel free to check issues page if you want to contribute.
 
-## 📝 License
-
-This project is available for educational and analytical purposes.
-
 ## 👤 Author
 
-**Vineet Patel**
-- Email: vineetpatel468@gmail.com
-- GitHub: [@vineet416](https://github.com/vineet416)
-- LinkedIn: [@vineet416](https://www.linkedin.com/in/vineet416/)
+Arnav Jain
 
-## 📧 Contact
-
-For any questions or feedback regarding this project, please feel free to reach out.
-
----
-
-*This project demonstrates end-to-end data analytics skills including data cleaning, feature engineering, database management, and SQL-based business intelligence.*
+- GitHub: [@iarnavjn](https://github.com/iarnavjn)
